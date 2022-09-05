@@ -1,0 +1,9 @@
+1,Tandoori Paneer Pizza,500,veg,1
+2,Chicken Tikka Biryani,200,non-veg,2
+3,Aloo Tikki Burger,50,veg,1
+4,Choco Fudge Brownie,69,desert,1
+5,Coca-Cola,30,beverage,1
+6,abc,100,non-veg,1
+7,bcd,100,non-veg,2
+8,croisants,50,desert,1
+9,abcd,11,veg,1
